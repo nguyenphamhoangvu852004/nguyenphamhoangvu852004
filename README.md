@@ -6,7 +6,7 @@ Web Developer
 
 I've learning to code for 2 years. I started at HTML, CSS, then i tried to Javascript. I really like Javascript Language.
 
-* 🌍  I'm based in Ho Chi Minh Vity
+* 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [nguyenphamhoangvu852004@gmail.com](mailto:nguyenphamhoangvu852004@gmail.com)
 * 🚀  I'm currently working on [PizzaOrder](http://nguyenphamhoangvu852004.id.vn)
 * 🧠  I'm learning Backend NodeJs
